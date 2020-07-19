@@ -9,11 +9,11 @@
  # return new_array
 #end
 
-def square_array(array)
-  new_array []
-  counter = 0
-   array.map do |num|
-       num ** 2
-   end
-   return new_array 
-end
+#def square_array(array)
+ # new_array []
+ # counter = 0
+ #  array.map do |num|
+ #      num ** 2
+ #  end
+ #  return new_array 
+#end
